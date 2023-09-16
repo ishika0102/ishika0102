@@ -7,7 +7,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **C, Java, Sql, Html, Css, Javascript**
+- 💬 Ask me about **Python
+- , Java, Sql, Html, Css, Javascript**
 
 - 📫 How to reach me **ishika.idc@gmail.com**
 
