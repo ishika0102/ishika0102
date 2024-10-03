@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ishika Dubey</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on **Backend Development of Zomato using Sql**
+- 🔭 Currently working on **Backend Development of HMS API**
 
-- 🌱 I’m currently learning **Spring, React js, Mongo DB, Node JS**
+- 🌱 I’m currently exploring **Healthcare Domain**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Java, Sql, python,Html, Css, Javascript**
+- 💬 Worked On **
+Programming Languages : Go | Java | Python | HTML | CSS
+• Frameworks : Go Fiber | Spring Boot | FastApI | Gorilla Websocket
+• Databases: MongoDB | MySQL | EHRbase
+• Authentication And Authorization : Keycloak
+• Development Tools : VS Code | Postman | Eclipse | Git | Github
+• Containers & Deployment : Docker | Nginx
+• Architectures : Microservices | MVC | Vertical Slice
+• Healthcare Standards : FHIR | OpenEHR
+• Operating Systems : Liniux | Windows
+**
 
 - 📫 How to reach me **ishika.idc@gmail.com**
 
