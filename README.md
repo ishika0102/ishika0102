@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Worked On ** Go | Java | Python | HTML | CSS | Spring Boot | FastApI | Gorilla Websocket | MongoDB | MySQL | EHRbase | Keycloak | Postman | Eclipse | Git | Github
+- 💬 Worked On **Go | Java | Python | HTML | CSS | Spring Boot | FastApI | Gorilla Websocket | MongoDB | MySQL | EHRbase | Keycloak | Postman | Eclipse | Git | Github
                   | Docker | Nginx | Microservices | MVC | Vertical Slice | FHIR | OpenEHR | Liniux | Windows**
 
 - 📫 How to reach me **ishika.idc@gmail.com**
