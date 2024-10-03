@@ -7,17 +7,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Worked On **
-Programming Languages : Go | Java | Python | HTML | CSS
-• Frameworks : Go Fiber | Spring Boot | FastApI | Gorilla Websocket
-• Databases: MongoDB | MySQL | EHRbase
-• Authentication And Authorization : Keycloak
-• Development Tools : VS Code | Postman | Eclipse | Git | Github
-• Containers & Deployment : Docker | Nginx
-• Architectures : Microservices | MVC | Vertical Slice
-• Healthcare Standards : FHIR | OpenEHR
-• Operating Systems : Liniux | Windows
-**
+- 💬 Worked On ** Go | Java | Python | HTML | CSS | Spring Boot | FastApI | Gorilla Websocket | MongoDB | MySQL | EHRbase | Keycloak | Postman | Eclipse | Git | Github
+                  | Docker | Nginx | Microservices | MVC | Vertical Slice | FHIR | OpenEHR | Liniux | Windows**
 
 - 📫 How to reach me **ishika.idc@gmail.com**
 
