@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ishika.idc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L4XHuHi9YTuKWHsw4OPv9M08mEXcv6y7/view?usp=drive_link](https://drive.google.com/file/d/1L4XHuHi9YTuKWHsw4OPv9M08mEXcv6y7/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1trDLrhnmpzZINmAIzCsK5db8AfdNJOFd/view?usp=drivesdk)
 
 - ⚡ Fun fact **I have great sense of humour**
 
