@@ -14,7 +14,7 @@
 ## Skills:
 
 #### Languages:
-[<img src= "https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=Go&logoColor=Black&labelColor=black&color=cyan"/>]([https%3A%2F%2Fgo.dev%2F])
+[<img href = "https://go.dev/" src= "https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=Go&logoColor=Black&labelColor=black&color=cyan"/>]
 &nbsp;
 ![Static Badge](https://img.shields.io/badge/Python-61dbfb?style=for-the-badge&logo=Pyhton&logoColor=Black&labelColor=black&color=61dbfb&link=https%3A%2F%2Fwww.python.org%2F)
 &nbsp;
