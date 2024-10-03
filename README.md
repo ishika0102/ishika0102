@@ -16,19 +16,18 @@
 #### Languages:
 <p align="left">
 <a href="https://go.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=Go&logoColor=Black&labelColor=black&color=cyan" alt=""/></a>
-</p>&nbsp;
+  
+<a href="https%3A%2F%2Fwww.python.org%2F" target="blank"><img align="center" src="https://img.shields.io/badge/Python-61dbfb?style=for-the-badge&logo=Pyhton&logoColor=Black&labelColor=black&color=61dbfb" alt=""/></a>
 
-![Static Badge](https://img.shields.io/badge/Python-61dbfb?style=for-the-badge&logo=Pyhton&logoColor=Black&labelColor=black&color=61dbfb&link=https%3A%2F%2Fwww.python.org%2F)
-&nbsp;
-![Static Badge](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=Java&logoColor=Black&labelColor=black&color=ED1D25&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
-&nbsp;
-![Static Badge](https://img.shields.io/badge/HTML-E65100?style=for-the-badge&logo=HTML&logoColor=black&color=E65100&link=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2F)
-&nbsp;
-![Static Badge](https://img.shields.io/badge/CSS-2AA4F4?style=for-the-badge&logo=HTML&logoColor=black&color=2AA4F4&link=https%3A%2F%2Fwww.w3schools.com%2Fcss%2F)
-&nbsp;
+<a href="https%3A%2F%2Fwww.java.com%2Fen%2F" target="blank"><img align="center" src="https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=Java&logoColor=Black&labelColor=black&color=ED1D25" alt=""/></a>
+
+<a href="https%3A%2F%2Fwww.w3schools.com%2Fhtml%2F" target="blank"><img align="center" src="https://img.shields.io/badge/GoFiber-0D61A9?style=for-the-badge&logo=gofiber&logoColor=black&color=0D61A9&link=https%3A%2F%2Fgofiber.io%2F" alt=""/></a>
+
+<a href="https%3A%2F%2Fwww.w3schools.com%2Fcss%2F" target="blank"><img align="center" src="https://img.shields.io/badge/CSS-2AA4F4?style=for-the-badge&logo=HTML&logoColor=black&color=2AA4F4" alt=""/></a>
+</p>
 
 #### Frameworks:
-![Static Badge](https://img.shields.io/badge/GoFiber-0D61A9?style=for-the-badge&logo=gofiber&logoColor=black&color=0D61A9&link=https%3A%2F%2Fgofiber.io%2F)
+![Static Badge]()
 &nbsp;
 ![Static Badge](https://img.shields.io/badge/Spring--Boot-33C481?style=for-the-badge&logo=spring&logoColor=black&color=33C481&link=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot)
 &nbsp;
