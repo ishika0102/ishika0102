@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on **Backend Development of HMS API**
 
-- 🌱 I’m currently exploring **Healthcare Domain**
+- 🌱 I’m currently exploring **Healthcare Domain "FHIR AND OpenEHR"**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -65,7 +65,7 @@
 #### Connect With Me!
 <p align="left">
   <a href="https://www.linkedin.com/in/ishika-dubey-22d12?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=white&color=black" alt=""/></a>
-<a href="ishika.idc@gmail.com" target="blank"><img align="center" src="ttps://img.shields.io/badge/Mail-black?style=for-the-badge&logo=Gmail&logoColor=white&color=black" alt=""/></a>
+  <a href="ishika.idc@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=Gmail&logoColor=white&color=black" alt=""/></a>
 </p>
 
 
