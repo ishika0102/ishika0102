@@ -18,21 +18,20 @@
 <a href="https://go.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=Go&logoColor=Black&labelColor=black&color=cyan" alt=""/></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-61dbfb?style=for-the-badge&logo=Pyhton&logoColor=Black&labelColor=black&color=61dbfb" alt=""/></a>
 <a href="https://www.java.com/en/" target="blank"><img align="center" src="https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=Java&logoColor=Black&labelColor=black&color=ED1D25" alt=""/></a>
-<a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://img.shields.io/badge/GoFiber-0D61A9?style=for-the-badge&logo=gofiber&logoColor=black&color=0D61A9&link=https%3A%2F%2Fgofiber.io%2F" alt=""/></a>
+<a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://img.shields.io/badge/HTML-ff5733?style=for-the-badge&logoColor=Black&color=ff5733" alt=""/></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://img.shields.io/badge/CSS-2AA4F4?style=for-the-badge&logo=HTML&logoColor=black&color=2AA4F4" alt=""/></a>
 </p>
 
 #### Frameworks:
-![Static Badge]()
-&nbsp;
-![Static Badge](https://img.shields.io/badge/Spring--Boot-33C481?style=for-the-badge&logo=spring&logoColor=black&color=33C481&link=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot)
-&nbsp;
-![Static Badge](https://img.shields.io/badge/FastApi-cyan?style=for-the-badge&logo=fastapi&logoColor=black&color=cyan&link=https%3A%2F%2Ffastapi.tiangolo.com%2F)
-&nbsp;
-![Static Badge](https://img.shields.io/badge/Gorilla--Websocket-lightblue?style=for-the-badge&logo=GorillaWebsocket&logoColor=black&color=blue&link=https%3A%2F%2Fpkg.go.dev%2Fgithub.com%2Fgorilla%2Fwebsocket)
-&nbsp;
-
-
+<p align="left">
+  <a href="https://gofiber.io/" target="blank"><img align="center" src="https://img.shields.io/badge/GoFiber-Cyan?style=for-the-badge&logoColor=Black&color=cyan" alt=""/></a>
+  
+  <a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://img.shields.io/badge/SpringBoot-Green?style=for-the-badge&logo=Spring&logoColor=black&color=green" alt=""/></a>
+  
+  <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastApi-lightblue?style=for-the-badge&logo=FastApi&logoColor=black&color=lightblue" alt=""/></a>
+  
+  <a href="https://pkg.go.dev/github.com/gorilla/websocket" target="blank"><img align="center" src="https://img.shields.io/badge/GorillaWebsocket-darkblue?style=for-the-badge&logo=Websocket&logoColor=black&color=darkblue" alt=""/></a>
+  </p>
 
 | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishika0102&theme=buefy&show_icons=true&hide_border=false&count_private=true" alt="Ishika's Github Stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika0102&theme=buefy&show_icons=true&hide_border=false&layout=compact" /></a> |
 | ------------- | ------------- |
