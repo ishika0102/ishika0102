@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ishika Dubey</h1>
+<p> <h1 align="center">Hi 👋, I'm Ishika Dubey</h1> <p align="right"> <a href="https://www.linkedin.com/in/ishika-dubey-22d12?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/Follow--%40IshikaDubey-black?style=for-the-badge&logo=Linkedin&logoColor=black&color=grey" /></a> </p> </p>
 <h3 align="center">A passionate Backend Developer from India</h3>
-
-
-<p align="right"> <a href="https://www.linkedin.com/in/ishika-dubey-22d12?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/Follow--%40IshikaDubey-black?style=for-the-badge&logo=Linkedin&logoColor=black&color=grey" /></a> </p>
 
 - 🔭 Currently working on **Backend Development of HMS API**
 
