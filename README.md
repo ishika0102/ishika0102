@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ishika Dubey</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
+<p align="left"> <a href="https://www.linkedin.com/in/ishika-dubey-22d12?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/Follow--%40IshikaDubey-black?style=for-the-badge&logo=Linkedin&logoColor=white&color=black" alt="ishikadubey" /></a> </p>
+
+
 - 🔭 Currently working on **Backend Development of HMS API**
 
 - 🌱 I’m currently exploring **Healthcare Domain "FHIR AND OpenEHR"**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 Reach me at **ishika.idc@gmail.com**
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/1trDLrhnmpzZINmAIzCsK5db8AfdNJOFd/view?usp=drivesdk)
 
@@ -60,12 +65,6 @@
  <a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Git-Orange?style=for-the-badge&logo=Git&logoColor=black&color=orange" alt=""/></a>
   <a href="https://github.com/ishika0102" target="blank"><img align="center" src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black&color=grey" alt=""/></a>
  <a href="https://www.postman.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=black&color=orange" alt=""/></a>
-</p>
-
-#### Connect With Me!
-<p align="left">
-  <a href="https://www.linkedin.com/in/ishika-dubey-22d12?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=white&color=black" alt=""/></a>
-  <a href="ishika.idc@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=Gmail&logoColor=white&color=black" alt=""/></a>
 </p>
 
 
