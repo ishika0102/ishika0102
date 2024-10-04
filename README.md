@@ -25,13 +25,18 @@
 #### Frameworks:
 <p align="left">
   <a href="https://gofiber.io/" target="blank"><img align="center" src="https://img.shields.io/badge/GoFiber-Cyan?style=for-the-badge&logoColor=Black&color=cyan" alt=""/></a>
-  
   <a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://img.shields.io/badge/SpringBoot-Green?style=for-the-badge&logo=Spring&logoColor=black&color=green" alt=""/></a>
-  
   <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastApi-lightblue?style=for-the-badge&logo=FastApi&logoColor=black&color=lightblue" alt=""/></a>
-  
   <a href="https://pkg.go.dev/github.com/gorilla/websocket" target="blank"><img align="center" src="https://img.shields.io/badge/GorillaWebsocket-darkblue?style=for-the-badge&logo=Websocket&logoColor=black&color=darkblue" alt=""/></a>
   </p>
+
+  ####Databases
+<p align="left">
+  <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=MOngodb&logoColor=black&color=3FA037" alt=""/></a>
+<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-%2300758f?style=for-the-badge&logo=MySQL&logoColor=black&color=%2300758f" alt=""/></a>
+  <a href="https://www.ehrbase.org/" target="blank"><img align="center" src="https://img.shields.io/badge/EHRBase-e6ebee?style=for-the-badge&logo=EHRBase&logoColor=black&color=FF0000" alt=""/></a>
+</p>
+
 
 | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishika0102&theme=buefy&show_icons=true&hide_border=false&count_private=true" alt="Ishika's Github Stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika0102&theme=buefy&show_icons=true&hide_border=false&layout=compact" /></a> |
 | ------------- | ------------- |
